@@ -1,0 +1,1 @@
+const div = dom.find("#test>.red")[0]
